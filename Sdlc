@@ -1,0 +1,59 @@
+Software Development Life Cycle (SDLC) -  05-Mar-2025 
+
+SDLC is a step-by-step process to build software or applications. 
+
+Phases of SDLC: 
+
+Requirement Gathering: Collecting business needs from the customer. (Output: BRS - Business Requirements Specification) 
+
+Analysis & Planning: Understanding requirements, creating a project plan. (Output: SRS - System Requirements Specification, Project Plan) 
+
+Design: Creating system architecture and component designs. (Output: Design Documents - HLD & LLD) 
+
+Development/Coding: Writing code based on design. (Output: Code & Executable Software) 
+
+Testing: Checking the software for bugs and ensuring it meets requirements. 
+
+Deployment & Maintenance: Releasing software and fixing issues if needed. 
+
+ 
+
+Waterfall Model 
+
+Follows a step-by-step approach (one phase starts after the previous one finishes). 
+
+Phases: 
+
+Requirement Gathering 
+
+Design & Planning 
+
+Coding 
+
+Testing 
+
+Deployment 
+
+Maintenance 
+
+Drawbacks: 
+
+Not good for complex projects with frequent changes. 
+
+Time-consuming. 
+
+Hard to modify requirements once started. 
+
+No working software until the last stage. 
+
+ 
+
+Agile Methodology 
+
+Faster & flexible development approach. 
+
+Iterative (repeat process) and incremental (add features gradually). 
+
+Projects are broken into small parts (iterations) of 2 to 8 weeks. 
+
+After each iteration, a working product is delivered. 
